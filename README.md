@@ -1,3 +1,3 @@
 # Logestics-Dashboard
 
-[image](amazon.jpg)
+[](amazon.jpg)
